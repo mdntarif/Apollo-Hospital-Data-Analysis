@@ -109,24 +109,14 @@ Objective: Summarize insights and recommendations for stakeholders.
 ### Learnings:  
 - Enhanced SQL and Power BI skills for real-world projects.  
 - Practical experience in healthcare analytics and KPI visualization.  
+ 
 
+## Project Presentation
+- [View Project Presentation]()
+  
 
-## **Files and Resources**  
+---
 
-- **Excel Files:** Cleaned and structured data.  
-- **SQL Scripts:** Data extraction and queries.  
-- **Power BI Report:** Interactive dashboard visuals.  
-
-
-## **Preview**  
-
-![Dashboard Screenshot Placeholder](https://via.placeholder.com/800x400?text=Dashboard+Preview)
-
-
-## **License**  
-This project is licensed under the MIT License, allowing modification and distribution.  
-
-
-For questions or feedback, feel free to contact **Umer** at [YourEmail@example.com].  
+For questions or feedback, please contact: mdtarif.chat@gmail.com
 
 Enjoy exploring the project!
