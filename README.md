@@ -70,10 +70,10 @@ Objective: Summarize insights and recommendations for stakeholders.
 **Key Visuals:** Descriptive analytics with actionable suggestions.  
 
 <div style="display: flex; flex-wrap: nowrap; overflow-x: auto; gap: 10px;">
-  <img src="https://github.com/Fardin-Data/E-Commerce-360-Analysis/assets/137788371/1ee38292-04e0-4c74-a422-b35ffe97aa0a" alt="Apollo_1.jpg" style="width: 400px;">
-  <img src="https://github.com/Fardin-Data/E-Commerce-360-Analysis/assets/137788371/356b7dcc-d27f-421f-acd8-3bc01f24129b" alt="Apollo_2.jpg" style="width: 400px;">
-  <img src="https://github.com/Fardin-Data/E-Commerce-360-Analysis/assets/137788371/f5cc6df4-8203-4384-bf7d-fee3416f7b85" alt="Apollo_3.jpg" style="width: 400px;">
-  <img src="https://github.com/Fardin-Data/E-Commerce-360-Analysis/assets/137788371/204fc0b5-c1ba-4bc2-a21c-3fd6953908e0" alt="Apollo_4.jpg" style="width: 400px;">
+  <img src="https://github.com/mdntarif/Apollo-Hospital-Data-Analysis/blob/main/assets/Apollo_1.jpg" alt="Apollo_1.jpg" style="width: 400px;">
+  <img src="https://github.com/mdntarif/Apollo-Hospital-Data-Analysis/blob/main/assets/Apollo_2.jpg" alt="Apollo_2.jpg" style="width: 400px;">
+  <img src="https://github.com/mdntarif/Apollo-Hospital-Data-Analysis/blob/main/assets/Apollo_3.jpg" alt="Apollo_3.jpg" style="width: 400px;">
+  <img src="https://github.com/mdntarif/Apollo-Hospital-Data-Analysis/blob/main/assets/Apollo_4.jpg" alt="Apollo_4.jpg" style="width: 400px;">
 </div>
 
 
