@@ -77,6 +77,16 @@ Objective: Summarize insights and recommendations for stakeholders.
 </div>
 
 
+## **Live Dashboard**
+Explore the interactive dashboard live on Power BI Service to gain real-time insights into the data.
+- [Click to see the live dashboard]()
+
+
+## Project Presentation
+Discover the comprehensive project presentation summarizing key insights and methodologies.  
+- [View Project Presentation]()
+
+
 ## **Key Metrics (KPIs)**  
 
 - **Total Patients:** Track ER visits daily.  
@@ -110,10 +120,6 @@ Objective: Summarize insights and recommendations for stakeholders.
 - Enhanced SQL and Power BI skills for real-world projects.  
 - Practical experience in healthcare analytics and KPI visualization.  
  
-
-## Project Presentation
-- [View Project Presentation]()
-  
 
 ---
 
