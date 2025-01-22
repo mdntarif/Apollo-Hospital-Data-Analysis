@@ -79,7 +79,7 @@ Objective: Summarize insights and recommendations for stakeholders.
 
 ## **Live Dashboard**
 Explore the interactive dashboard live on Power BI Service to gain real-time insights into the data.
-- [Click to see the live dashboard]()
+- [Click to see the live dashboard](https://app.powerbi.com/view?r=eyJrIjoiNmZkODQzMTQtMGJlNy00YjFjLWEyNzYtYzIyOWU2ZjNmNDM3IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 
 ## Project Presentation
