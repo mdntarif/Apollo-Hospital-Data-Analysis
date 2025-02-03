@@ -82,11 +82,6 @@ Explore the interactive dashboard live on Power BI Service to gain real-time ins
 - [Click to see the live dashboard](https://app.powerbi.com/view?r=eyJrIjoiNmZkODQzMTQtMGJlNy00YjFjLWEyNzYtYzIyOWU2ZjNmNDM3IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 
-## Project Presentation
-Discover the comprehensive project presentation summarizing key insights and methodologies.  
-- [View Project Presentation]()
-
-
 ## **Key Metrics (KPIs)**  
 
 - **Total Patients:** Track ER visits daily.  
